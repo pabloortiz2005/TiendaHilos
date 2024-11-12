@@ -20,7 +20,7 @@ public class Main {
         cliente2.agregarProductoAlCarrito("Tomates");
 
         cliente3.agregarProductoAlCarrito("Papel higiénico");
-        cliente3.agregarProductoAlCarrito("Shampoo");
+        cliente3.agregarProductoAlCarrito("Colonia djMario");
 
         cliente4.agregarProductoAlCarrito("Jabón");
         cliente4.agregarProductoAlCarrito("Pasta de dientes");
