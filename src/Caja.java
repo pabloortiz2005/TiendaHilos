@@ -12,7 +12,7 @@ public class Caja {
         System.out.println("Caja " + id + ": El cliente " + cliente + " está procesando el producto " + producto +
                 ". Tiempo de proceso: " + tiempoProcesando + " ms.");
         try {
-            Thread.sleep(1000); // Simula el tiempo de escaneo del producto (1 segundo por producto).
+            Thread.sleep(1000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
