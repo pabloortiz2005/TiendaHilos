@@ -43,7 +43,7 @@ public class Main {
         hilo5.start();
 
         try {
-            // Esperar que todos los hilos terminen
+
             hilo1.join();
             hilo2.join();
             hilo3.join();
